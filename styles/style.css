@@ -1,0 +1,45 @@
+/* body{
+  padding: 40px;
+margin:80px;
+background-color: violet;
+border: 7px dotted black;
+}
+h1{
+  text-align:center;
+  padding:30px;
+margin:20px;
+text-decoration:none;
+text-align:center;
+text-transform: uppercase;
+font-style:italic;
+font-size:70px;
+color:black;
+font-weight:bold;
+text-decoration:underline;
+font-family:"Courier New";
+text-shadow: 5px 4px 3px white;
+} */
+
+.details{
+  color: #555555;
+}
+.highlight{
+  text-align: left;
+  color: #000000;
+  font-weight: bold;
+}
+.name{
+  font-weight: bold;
+  color: #000;
+}
+.user{
+  padding: 1em;
+  width: 100%;
+  display: flex;
+  background-color: #eee;
+  border-radius: 0.2em;
+}
+.profile{
+  width: 10em;
+  height: 10em;
+}
